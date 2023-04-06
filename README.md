@@ -1,2 +1,11 @@
-# squeezing_data_from_plots
-Using the {juicr} package
+# extract_data_from_plots
+
+Using R
+
+## Package options
+
+{juicr}
+
+{metaDigitize}
+
+
